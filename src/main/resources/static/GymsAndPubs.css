@@ -1,0 +1,30 @@
+.google_map{
+    width: 55%;
+    margin-left: 2%;
+    float:right;
+}
+.google_map iframe{
+    width:100%;
+}
+.paragraph{
+    width: 42%;
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+
+.top{
+    border: 1px;
+    background-color: lightblue;
+    text-align: left;
+    font-size:5vw;
+    width: 100%;
+}
+
+.results{
+    border: 1px;
+    text-align: center;
+    font-size:2vw;
+    width: 100%;
+    }

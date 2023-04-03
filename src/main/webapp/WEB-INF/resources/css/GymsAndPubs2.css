@@ -1,0 +1,252 @@
+body{
+    background: #343d46;
+
+}
+
+.boxbgsearch{
+
+    margin: auto;
+
+
+}
+
+.boxbgsearch:after{
+
+    content: "";
+    display: table;
+    clear: both;
+
+
+
+
+}
+
+.boxbgleftsearch {
+    background-image: url("back.png");
+    background-repeat: no-repeat;
+
+    float: left;
+
+    background-position: right top;
+    width: 33.33%;
+
+    min-height: 500px;
+
+}
+
+.boxcentersearch {
+    width: 33.33%;
+    float: left;
+
+
+
+
+
+
+}
+
+.boxbgrightsearch {
+    background-image: url("back.png");
+    background-repeat: no-repeat;
+
+    float: left;
+
+    background-position: left top;
+    width: 33.33%;
+
+    min-height: 500px;
+
+}
+
+.search {
+    width: 75%;
+}
+
+.selectboxsearch {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #343d46;
+    border-radius: 4px;
+    box-shadow: 3px 3px #ccc;
+    text-align: center;
+    margin: auto;
+
+
+
+}
+
+.submitsearch {
+
+    width: 70px;
+    border: 1px solid #999;
+    font-size: 16px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 4px;
+    box-shadow: 3px 3px #ccc;
+    text-align: center;
+
+}
+
+
+form {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 4px;
+    box-shadow: 3px 3px #ccc;
+    text-align: center;
+    margin: auto;
+
+}
+input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+    color: #1c87c9;
+}
+
+.spacesearch {
+    height: 80px;
+
+}
+
+
+.boxtextsearch {
+    color: #fff;
+    text-align: left;
+    margin: auto;
+    font-size: 18pt;
+    width: 400px;
+}
+
+.mapboxsearch {
+    width: 800px;
+    height: 600px;
+    background-color: #eff;
+    margin: auto;
+
+
+}
+
+
+
+* {
+    box-sizing: border-box;
+    color: #fff;
+
+}
+
+
+.result{
+    padding: 20px;
+
+}
+
+
+
+.gympub_box:after{
+    content: "";
+    display: table;
+    clear: both;
+
+
+
+}
+
+.box{
+    float: left;
+    padding: 10px;
+    height: 650px;
+
+
+
+
+
+}
+
+
+
+.gym{
+    width: 25%;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 3px 3px #ccc;
+    text-align: left;
+
+
+
+
+}
+
+.pub{
+    width: 25%;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 3px 3px #ccc;
+    text-align: left;
+
+
+
+
+}
+
+.pub_item{
+    padding: 10px;
+    border: 1px solid;
+    text-align: left;
+
+
+
+}
+
+.space{
+    width: 1%;
+
+}
+
+
+.map{
+    width: 40%;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 3px 3px #ccc;
+    text-align: left;
+
+}
+
+.top{
+    border: 1px solid;
+    width: 100%;
+
+
+
+
+}
+
+.intro{
+    border: 0px solid;
+    margin: 30px 20px 30px 30px;
+
+
+}
+
+.empty{
+    border: 0px;
+
+    height: 15px;
+
+}
+
+.info{
+    border: 1px solid;
+    width: 100%;
+    padding: 10px;
+
+}

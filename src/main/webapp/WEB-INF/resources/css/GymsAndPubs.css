@@ -1,0 +1,102 @@
+.google_map{
+    width: 55%;
+    margin-left: 2%;
+    float:right;
+}
+.google_map iframe{
+    width:100%;
+}
+.paragraph{
+    width: 42%;
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+
+.top{
+    border: 1px;
+    background-color: lightblue;
+    text-align: left;
+    font-size:5vw;
+    width: 100%;
+}
+
+.results{
+    border: 1px;
+    text-align: center;
+    font-size:2vw;
+    width: 100%;
+    }
+
+
+
+body{
+    background: #343d46;
+}
+.box{
+    margin: 100px auto;
+    width: 600px;
+
+    font-size: 18pt;
+    color: #fff;
+
+}
+
+
+
+.selectbox {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 4px;
+    box-shadow: 3px 3px #ccc;
+    text-align: center;
+    margin: auto;
+
+}
+
+form {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 4px;
+    box-shadow: 3px 3px #ccc;
+    text-align: center;
+    margin: auto;
+
+}
+input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+}
+
+.search {
+    width: 75%;
+}
+
+.submit {
+
+    width: 70px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 4px;
+    box-shadow: 3px 3px #ccc;
+    text-align: center;
+
+}
+
+
+.nope {
+    text-decoration: line-through;
+
+}
